@@ -1,13 +1,13 @@
 # AI_Fairness
 
 Hey, welcome to my little fairness project
-This repo is basically me messing around with a resume‑screening dataset to see:
+This repo is basically my educational assignment in Machine Learning with a resume‑screening dataset to see:
 
-how well a model can predict who gets shortlisted
+How well a model can predict who gets shortlisted
 
-whether the model treats people with different education levels fairly
+Model treats people with different education levels fairly
 
-and what the model is actually thinking when it makes decisions
+Hoow the model is actually thinking when it makes decisions
 
 How to get started
 If you want to run this yourself:
@@ -138,7 +138,7 @@ SHAP gives bigger numbers because it works in log‑odds space. LIME gives small
 Final thoughts (super casual)
 The model is strong.
 
-It’s not perfectly fair — education level definitely affects predictions.
+It’s not perfectly fair based on education level definitely affects predictions.
 
 SHAP and LIME help explain what’s going on under the hood.
 

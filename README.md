@@ -9,14 +9,6 @@ whether the model treats people with different education levels fairly
 
 and what the model is actually thinking when it makes decisions
 
-Everything happens inside one notebook: Ai_Fairness.ipynb.
- What’s in here
-Code
-AI_Fairness/
-│── Ai_Fairness.ipynb   ← the whole project
-│── README.md           ← this file
-Nothing fancy. Just the notebook and the README.
-
 How to get started
 If you want to run this yourself:
 
